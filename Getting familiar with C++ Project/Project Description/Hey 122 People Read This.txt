@@ -1,0 +1,3 @@
+If you get an error/warning in your browser when you try to download Visual Studio 2013, you can just use the vs_professional2013.exe file in this folder instead, to install the program on your personal computer.
+
+- Steve

@@ -1,0 +1,9 @@
+﻿Build started 1/29/2020 3:36:08 PM.
+     1>Project "I:\19202-CSC122B\public\in class\01 C++ Intro\HelloWorld\HelloWorld\HelloWorld.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         HelloWorld.vcxproj -> I:\19202-CSC122B\public\in class\01 C++ Intro\HelloWorld\Debug\HelloWorld.exe
+     1>Done Building Project "I:\19202-CSC122B\public\in class\01 C++ Intro\HelloWorld\HelloWorld\HelloWorld.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.68
